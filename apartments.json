@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ccdad526-126f-48c6-b673-905118ba657e",
+    "name": "king",
+    "location": "Kottara",
+    "price": "10000",
+    "floors": "5",
+    "flats": "40"
+  },
+  {
+    "id": "ac3c0f43-c323-4185-984c-ff31a0eb643b",
+    "name": "VIP HOTELS",
+    "location": "Kottara",
+    "price": "100000",
+    "floors": "6",
+    "flats": "60"
+  },
+  {
+    "id": "d7e9914b-9993-423d-a47c-e66207c76773",
+    "name": "Narmada",
+    "location": "Mangalore",
+    "price": "15000",
+    "floors": "2",
+    "flats": "6"
+  },
+  {
+    "id": "793a157b-8c4b-4907-bd3b-002ea47992f4",
+    "name": "godavari",
+    "location": "Kottara",
+    "price": "10000",
+    "floors": "11",
+    "flats": "60"
+  }
+]

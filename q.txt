@@ -1,0 +1,34 @@
+Scenario: Features of an Apartment Management System.
+
+ 
+
+Assume there is an Apartment in Mangalore. In this apartment there is an ASSOCIATIOn which is madeup of many people. This ASSOCIATIOn is in need of a Online System in which they can manage the Whereabouts of each FLAT.
+For e.g.: The ASSOCIATIOn gives Many Amenities in the Apartment like Cleaning, Water, Electricity, Lift, etc. For these services the ASSOCIATIOn usually has a Maintenance Fees to be paid per FLAT without fail each month. In the similar lines, ASSOCIATIOn will provide GAS and Collects Garbage from each FLAT, for which also fees has to be paid per FLAT each month.
+
+ 
+
+So below could be some of the technical requirements needed to develop and Product for the ASSOCIATION. Once the backend is ready, frontend may have to be developer.
+
+ 
+
+Backend: Giriprasad Patil
+Frontend: TBD
+
+ 
+
+Backend Critical Feature in Phase 1:
+
+ 
+
+1. You should have a REST Backend which exposes APIs which can be called by Clients like Web Browser, POSTMAN etc.
+2.1 There should be an API to register a new Apartment (attributes that describe an apartment should be provided, like name, address)
+2.2 The same API should be able to take in more data related to the apartment, like, how many FLOORs are there in that apartment, how many FLATs per apartment
+2.3 it should be possible to mark each FLAT as VACANT, RENTED, OWNER-OCCUPIED
+3.1 there should be API to create a Maintenance Bill of Rs. X each month per FLAT
+3.2 there should be API to create a Gas Bill of Rs. X each month per FLAT
+3.3 there should be API to create a Garbage Collection Bill of Rs. X each month per FLAT
+4. There should be an API to get all Bills per FLAT for any Month
+5.1 There should be an API to mark PER FLAT to update that a FLAT has paid their Maintenance Dues for any Month
+5.2 There should be an API to mark PER FLAT to update that a FLAT has paid their Gas Bill Dues for any Month
+5.3 There should be an API to mark PER FLAT to update that a FLAT has paid their Garbage Collection Bill Dues for any Month
+6. There should be an API to get all DUES with respect to a FLAT or for all FLAT or for all flats per FLOOR

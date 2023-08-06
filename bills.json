@@ -1,0 +1,149 @@
+[
+  {
+    "2023-07": {
+      "978fbe08-2645-4555b-9801-4e07e4a65108": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "978fbe08-2645-4555b-1-4e07e4a65108": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "827f93b7-fd4d-45d2-a678-d786e9d2e827": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "0729ac38-b37f-43b9-9334-9177f81e1d0c": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "8d90be4b-98b0-408c-8e1e-8b14f7d32571": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "78bba30b-d1da-40ba-b5b4-a856631b2c22": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "655be547-d3aa-466c-ac62-030ba3987513": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "203fb55a-9131-442c-ba9a-fc3db1e05053": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "8854e30b-9587-4398-897d-432c97a4d625": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      }
+    }
+  },
+  {
+    "2023-06": {
+      "978fbe08-2645-4555b-9801-4e07e4a65108": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "978fbe08-2645-4555b-1-4e07e4a65108": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "827f93b7-fd4d-45d2-a678-d786e9d2e827": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "0729ac38-b37f-43b9-9334-9177f81e1d0c": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "8d90be4b-98b0-408c-8e1e-8b14f7d32571": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "78bba30b-d1da-40ba-b5b4-a856631b2c22": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "655be547-d3aa-466c-ac62-030ba3987513": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "203fb55a-9131-442c-ba9a-fc3db1e05053": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "8854e30b-9587-4398-897d-432c97a4d625": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      }
+    }
+  },
+  {
+    "2023-08": {
+      "978fbe08-2645-4555b-9801-4e07e4a65108": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "978fbe08-2645-4555b-1-4e07e4a65108": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "827f93b7-fd4d-45d2-a678-d786e9d2e827": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "0729ac38-b37f-43b9-9334-9177f81e1d0c": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "8d90be4b-98b0-408c-8e1e-8b14f7d32571": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "78bba30b-d1da-40ba-b5b4-a856631b2c22": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "655be547-d3aa-466c-ac62-030ba3987513": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "203fb55a-9131-442c-ba9a-fc3db1e05053": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      },
+      "8854e30b-9587-4398-897d-432c97a4d625": {
+        "gasbill": 200,
+        "maintenencebill": 300,
+        "garbagebill": 400
+      }
+    }
+  }
+]
